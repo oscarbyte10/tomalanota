@@ -6,21 +6,78 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky"
   },
   "dependencies": {
+    "lint-staged": "15.2.7",
+    "next": "14.2.5",
     "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "next": "14.2.5"
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "typescript": "5.5.3",
     "@types/node": "20.14.10",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
-    "postcss": "8.4.39",
-    "tailwindcss": "3.4.4",
     "eslint": "8.57.0",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "eslint-config-prettier": "9.1.0",
+    "husky": "9.0.11",
+    "postcss": "8.4.39",
+    "prettier": "3.3.3",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.5.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "next/core-web-vitals",
+      "prettier"
+    ],
+    "rules": {
+      "no-unused-vars": "error",
+      "sort-imports": [
+        "error",
+        {
+          "ignoreCase": true,
+          "ignoreDeclarationSort": true
+        }
+      ],
+      "import/order": [
+        "error",
+        {
+          "groups": [
+            [
+              "builtin",
+              "external"
+            ],
+            "internal",
+            [
+              "sibling",
+              "parent",
+              "index"
+            ]
+          ],
+          "newlines-between": "always",
+          "alphabetize": {
+            "order": "asc",
+            "caseInsensitive": true
+          }
+        }
+      ]
+    }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "proseWrap": "always"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{ts,tsx,md,json}": [
+      "prettier --write"
+    ]
   }
 }
