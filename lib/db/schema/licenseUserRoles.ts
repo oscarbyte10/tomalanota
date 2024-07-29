@@ -1,16 +1,17 @@
-import { pgTable, integer, varchar } from 'drizzle-orm/pg-core';
+import { pgTable, integer, varchar, serial } from 'drizzle-orm/pg-core';
 import { users } from './users';
 import { licenses } from './licenses';
-import { nanoid } from '@/lib/utils';
 
 export const licenseUserRoles = pgTable('license_user_roles', {
-  id: varchar('id', { length: 191 })
-    .primaryKey()
-    .$defaultFn(() => nanoid()),
+  id: serial('id').primaryKey(),
 
-  licenseId: varchar('license_id', { length: 191 }).references(
-    () => licenses.id,
-  ),
-  userId: varchar('user_id', { length: 191 }).references(() => users.id),
-  role: varchar('role', { length: 255 }),
+  licenseId: integer('license_id')
+    .references(() => licenses.id)
+    .notNull(),
+
+  userId: integer('user_id')
+    .references(() => users.id)
+    .notNull(),
+
+  role: integer('role').notNull(),
 });

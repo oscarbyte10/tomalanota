@@ -1,10 +1,7 @@
-import { pgTable, timestamp, varchar } from 'drizzle-orm/pg-core';
-import { nanoid } from '@/lib/utils';
+import { pgTable, timestamp, varchar, serial } from 'drizzle-orm/pg-core';
 
 export const licenses = pgTable('licenses', {
-  id: varchar('id', { length: 191 })
-    .primaryKey()
-    .$defaultFn(() => nanoid()),
+  id: serial('id').primaryKey(),
 
   licenseKey: varchar('license_key', { length: 255 }).unique().notNull(),
 

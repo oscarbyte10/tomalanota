@@ -1,22 +1,52 @@
-// import { nanoid } from '@/lib/utils';
-// import { index, pgTable, text, varchar, vector } from 'drizzle-orm/pg-core';
+import { nanoid } from '@/lib/utils';
+import {
+  index,
+  integer,
+  pgTable,
+  text,
+  varchar,
+  vector,
+  timestamp,
+} from 'drizzle-orm/pg-core';
+import { users } from './users';
+import { workspaces } from './workspaces';
 
-// export const embeddings = pgTable(
-//   'embeddings',
-//   {
-//     id: varchar('id', { length: 191 })
-//       .primaryKey()
-//       .$defaultFn(() => nanoid()),
+export const embeddings = pgTable(
+  'embeddings',
+  {
+    id: varchar('id', { length: 191 })
+      .primaryKey()
+      .$defaultFn(() => nanoid()),
 
-//     content: text('content').notNull(),
+    resourceType: integer('resource_type').notNull(),
 
-//     embedding: vector('embedding', { dimensions: 1536 }).notNull(),
-//   },
+    resourceId: integer('resource_id').notNull(),
 
-//   table => ({
-//     embeddingIndex: index('embeddingIndex').using(
-//       'hnsw',
-//       table.embedding.op('vector_cosine_ops'),
-//     ),
-//   }),
-// );
+    workspaceId: integer('workspace_id')
+      .references(() => workspaces.id)
+      .notNull(),
+
+    content: text('content').notNull(),
+
+    embedding: vector('embedding', { dimensions: 1536 }).notNull(),
+
+    createdBy: integer('created_by')
+      .references(() => users.id)
+      .notNull(),
+
+    createdAt: timestamp('created_at', { withTimezone: true })
+      .defaultNow()
+      .notNull(),
+
+    updateAt: timestamp('update_at', { withTimezone: true })
+      .defaultNow()
+      .$onUpdate(() => new Date()),
+  },
+
+  (table) => ({
+    embeddingIndex: index('embedding_index').using(
+      'hnsw',
+      table.embedding.op('vector_cosine_ops'),
+    ),
+  }),
+);
