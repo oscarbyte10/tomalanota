@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Gluten",
+    "id": 0
+  },
+  {
+    "name": "Crustáceos",
+    "id": 1
+  },
+  {
+    "name": "Huevos",
+    "id": 2
+  },
+  {
+    "name": "Pescado",
+    "id": 3
+  },
+  {
+    "name": "Cacahuetes",
+    "id": 4
+  },
+  {
+    "name": "Soja",
+    "id": 5
+  },
+  {
+    "name": "Lácteos",
+    "id": 6
+  },
+  {
+    "name": "Frutos con Cáscara",
+    "id": 7
+  },
+  {
+    "name": "Apio",
+    "id": 8
+  },
+  {
+    "name": "Mostaza",
+    "id": 9
+  },
+  {
+    "name": "Sésamo",
+    "id": 10
+  },
+  {
+    "name": "Dióxido de Azufre y Sulfitos",
+    "id": 11
+  },
+  {
+    "name": "Altramuces",
+    "id": 12
+  },
+  {
+    "name": "Moluscos",
+    "id": 13
+  }
+]

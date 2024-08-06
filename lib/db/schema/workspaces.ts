@@ -14,7 +14,7 @@ export const workspaces = pgTable('workspaces', {
   name: varchar('name', { length: 255 }).notNull(),
 
   licenseId: integer('license_id')
-    .references(() => licenses.id)
+    .references(() => licenses.id, { onDelete: 'cascade' })
     .notNull(),
 
   createdBy: integer('created_by')

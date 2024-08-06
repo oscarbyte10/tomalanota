@@ -1,0 +1,726 @@
+[
+  {
+    "name": "\ud83c\udfc6\ud83e\udd47BRUTAL GLASS\ud83c\udf78\ud83d\udd25 \u00a1\u00a1\u00a1NUEVO!!!",
+    "menu_items": [
+      {
+        "name": "PALOMA BRUTAL",
+        "description": "TEQUILA DON JULIO BLANCO CORDIAL DE POMELO SIROPE DE PIMIENTA ROSAZUMO DE LIMON SODA DE POMELO\nversi\u00f3n de la cl\u00e1sica paloma con nuestro toque brutal",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/PALOMA_1/b9d26319ecf76d8cd94df0302e26d01a.jpg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "DAIQUIRI CLOROFILA",
+        "description": "RON SANTIAGO DE CUBA 8 A\u00d1OS INFUSIONADO CON HIERBABUENAPURE DE YUZUSIROPE DE PI\u00d1AMIX DE CITRICOS\nCoctel tropical, goloso y frescoPUEDES PEDIR LA VERSION CLASICA ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/CLOROFILA_BRUTAL_1/543714f0d1d58216b9888e6bc2e647f6.jpg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\udd47\ud83c\udfafSAMBA\ud83c\udf79\u26bd\ufe0f",
+        "description": "C\u00f3ctel del mes creado por nuestro jefe de barra brutal,  ALEXIS \nVersi\u00f3n brutal de la popular Caipiri\u00f1a, con un toque afrutado y floral aportado por el melocot\u00f3n y la esencia de jazm\u00edn sin perder el car\u00e1cter de la cachaza. \nCachaza 51Amaretto marie Brizard Esencia de jazm\u00edn Marie Brizard Sirope de molocoton Zumo de lim\u00f3n ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/a599fc2d-f6c0-44f6-b288-ceeea4d881ad/a84a1e07b774624ac8fca0f11051af8a.jpeg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "FRESA PICOSA",
+        "description": "LICOR DE TEQUILA FRESA PICOSA TEQUILA APERITIVO MIDI ROJOCLARIFICADO DE FRUTOS ROJOS Y COCO",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/tempImageATbZ9X/859eb8ec12933f0fd734af7800e87952.jpg",
+        "price": 11.0,
+        "allergens": [6]
+      },
+      {
+        "name": "CHERRY NEGRONI",
+        "description": "TANQUERAY TENCAMPARIDIDANTE VERMUTHERING CHERRYCHERRY BITTER\nTwist del cl\u00e1sico negroni con nuestro toque brutal",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/CHERRY_NEGRONI/3293987077a4a14618fa5199876fbaad.jpg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "HERBAL",
+        "description": "GINEBRA BOMBAY SAPPHIRELICOR DE HIERBASAPERITIVO MIDI BLANCOSIROPE DE PI\u00d1AMIX DE CITRICOS\nCoctel refrescante, c\u00edtrico y afrutado",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/HERBAL_1/f6fcbf23a26dc07288b44c5b08262c26.jpg",
+        "price": 11.0,
+        "allergens": [11]
+      }
+    ]
+  },
+  {
+    "name": "\ud83c\udfac\ud83c\udfb8COCTELES BRUTAL FAMOUS \ud83d\udcf8\ud83c\udf89",
+    "menu_items": [
+      {
+        "name": "\ud83d\udc92\ud83c\udf80BARBIE\ud83c\udf6d\ud83d\udc93",
+        "description": "RON DIPLOMATICOSHRUB FRUTOS ROJOSCORDIAL LIMA MIX DE CITRICOS AZUCAR HIERBABUENA\nCOCTEL REFRESCANTE Y AFRUTADO ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG-20230919-WA0007_VQ8MvQI/76616b9ff86f83735226adbff678b10d.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\u2660\ufe0f\ud83d\udda4CRUELLA DE VIL \ud83e\udd35\ud83c\udffb\u2640\ufe0f\ud83d\udc3e ",
+        "description": "JUNE PERAPISCOMANZANA VERDEZUMO PERA MIX CITRICOS\nC\u00f3ctel afrutado y c\u00edtrico. Sabor a pera \ud83c\udf50 intenso con retrogusto de manzana c\u00edtrica",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240052/a961695cb195651615ba6c0e9ca97406.jpg",
+        "price": 14.0,
+        "allergens": []
+      },
+      {
+        "name": "THE MASK",
+        "description": "RON SANTA TERESAGINEBRA BOMBAY SAPPHIRELICOR MELON VERDESIROPE MELON PURE DE LICHI MIX CITRICOS\nTrago largo afrutado, fresco y refrescante",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240022/2df33c1664a75060aae65a4c6e14d0ca.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83d\udc78 MISS.. \u2764\ufe0f\u2764\ufe0fMARILYN \ud83d\udc8b\ud83d\udc8b",
+        "description": "GINEBRA TANQUERAYMANZANILLACAMPARISIROPE MANZANA VERDE CORDIAL DE LIMAZUMO DE NARANAJA SODA DE POMELO \nCoctel de trago largo, refrescante con matices ligeramente amargas.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/11c2fe88-3d0a-4fc1-b376-33544acea51e/f6c32b59f8a343bed00b10de49cedde5.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83d\udc51 MAJESTY \ud83d\udc51  Freddie Mercury",
+        "description": "VODKA CIROCSIROPE DE PALOMITAS AL CURRYMANGO PICANTEZUMO DE LIMON\nTRAGO LARGO, REFRESCANTE Y ESPECIADO CON UN LIGERO PUNTO PICANTE",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240185_1/9a65d5687e9e44ea1d8139b8b37c36c8.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "JOKER BY LADR\u00d3N DE MANZANAS\ud83c\udf4e\ud83c\udf7a",
+        "description": "RON DIPLOMATICO EXPLUSIVAJACK DANIELS APPLEZUMO NATURAL DE JENGIBRE Y LIMONCANELA SIDRA LADR\u00d3N DE MANZANAS \nCoctel afrutado y refrescante, ligeramente c\u00edtrico con notas de manzana y canela, complementadas con sidra LADR\u00d3N DE MANZANAS \ud83c\udf4e ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240158_1/035d46dbcf05352d5dd64f62b37c2e11.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\udd43\ud83d\udcabPIKACHU FASHIONED \ud83c\udf79\ud83e\uddca",
+        "description": "Versi\u00f3n del old fashioned mas brutal. \nGENTLEMAN JACKLICOR FLOR ELECTRICACORDIAL DE LIMASIROPE DE CURRYBITTER DE FLOR ELECTRICA",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240175_1/0921f14e63dfdac0be520aa98744b0e3.jpg",
+        "price": 12.0,
+        "allergens": [11]
+      },
+      {
+        "name": "SANTA ANA SOUR \ud83c\udf4b\ud83c\udf78",
+        "description": "GINEBRA TANQUERAYZUMO NATURAL DE JENGIBRE Y LIMONALBAHACACLARA HUEVO \nNuestra mezcla entre Moscow Mule y vodka sour.. Trago corto ideal para aperitivo odigestivo, c\u00edtrico, seco y con un toque picante ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240130_1/873b41cfa7b7a6990822f7f0f180383d.jpg",
+        "price": 12.0,
+        "allergens": [2]
+      },
+      {
+        "name": "MARGARITA BRUTAL",
+        "description": "MEZCAL 400 CONEJOSTEQUILA 1800 BLANCOPURE MANGOSIROPE CASERO CURRYZUMO LIMAZUMO PI\u00d1A\nJuntamos M\u00e9xico y La India conectando el ahumado del Mezcal con el curry a trav\u00e9s de la acidez de la pi\u00f1a y el dulzor del mango\nAHUMADA, ESPECIADA Y CITRICA CON UN LIGERO PUNTO PICANTE.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240142_1/cc9211106cb0ddebf191ffe5bed3aae5.jpg",
+        "price": 12.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\uddbe\ud83e\udef6ME QUITO EL CR\u00c1NEO \ud83d\udd25\ud83d\udc80",
+        "description": "RON ZACAPA 23PEDRO XIMENEZFRUTA PASI\u00d3NZUMO NARANJAVAINILLAMIX CITRICOS\nUn twist del cl\u00e1sico pornstar martini, trago largo con una entrada \u00e1cida y un finaluntuoso y dulce aportado por el N\u00e9ctar de Pedro Ximenez.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0264/811b31513921cfc53bdfe166bd121edb.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\udd39\u200d\u2642\ufe0f\ud83c\udfafNEMESIS\ud83c\udf8a\ud83d\udea8",
+        "description": "JUNE PERAJUNE MELOCOTONGINEBRA SHRUB FRUTOS ROJOSFLOR DE SA\u00daCOMIX DE CITRICOSCORDIAL DE LIMA \nTRAGO LARGO, AFRUTADO Y REFRESCANTE",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0260/bf90a1e79425e1da276aa539ea88a1e3.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83c\udf6c\ud83d\udca5 TOFFE MARTINI \ud83c\udf78\u2615\ufe0f",
+        "description": "VODKA KETEL ONELICOR CAFESIROPE TOFFE CAFE ESPRESSOESPUMA DE TOFFE FLAMBEADA",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240172_1/f64fbb72362aed8193a33136ccea1db2.jpg",
+        "price": 12.0,
+        "allergens": [2]
+      },
+      {
+        "name": "MANDA HUEVOS",
+        "description": "GINEBRA TANQUERAY ZUMO NATURAL DE JENGIBRE Y LIMONSIROPE PEPINO Y FLOR DE SAUCO\nTRAGO LARGO, REFRESCANTE Y FLORAL CON UN PEQUE\u00d1O PUNTO PICANTE",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240161/18504bf0b2d866931fb4803987c5bfd1.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83d\udc19\ud83d\udca5BRUTAL KRAKEN \ud83e\udd91\ud83e\uddc9",
+        "description": "RON KRAKENLICOR PLATANOSIROPE COCOSHRUB FRUTOS ROJOSZUMO LIMON\nTRAGO LARGO, AFRUTADO, REFRESCANTE Y GOLOSO",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240099/5806f5bc95ae58029d302d92be42a2bb.jpg",
+        "price": 13.0,
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "\ud83e\uddc9\ud83c\udf08C\u00d3CTELES SIN ALCOHOL\ud83e\udd70\ud83d\ude07",
+    "menu_items": [
+      {
+        "name": "Limonada Inclan",
+        "description": "Cl\u00e1sica limonada con un toque refrescante con hierbabuena. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3662E651-9FEB-4C4E-AF34-AC49D98CB1AB/5dd275e2f6244c2b4124089a2d1e2cf5.jpeg",
+        "price": 6.0,
+        "allergens": []
+      },
+      {
+        "name": "Limonada Rosi",
+        "description": "Version afrutada y refrescante de la cl\u00e1ssica limonada con un toque ex\u00f3tico de frutos rojos y flor de Sauco. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/570FDBC2-3380-4AAD-B445-9A74AF596F37/b98925f0608d40ad4fcdf45eca4fd6fa.jpeg",
+        "price": 6.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\udd91VIRGIN KRAKEN \ud83e\uddc9",
+        "description": "Nuestra versi\u00f3n de la pi\u00f1a colada sin alcohol, con su toque brutal, zumo de pi\u00f1a, scrub de frambuesa, sirope de coco, zumo de lim\u00f3n y pl\u00e1tano.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4791/f4823e5effc2c5be8ac4281d7f6f2e65.jpeg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "               \ud83d\udc23VIRGIN MANDA HUEVOS\ud83e\udd96",
+        "description": "TANQUERAY 00SIROPE PEPINO Y FLOR DE SAUCOLIMONADA DE JENGIBRE\nNuestra versi\u00f3n del popular Moscow mule sin alcohol",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4790/dab8f438959c8e2fe3795675e2a3cdb0.jpeg",
+        "price": 11.0,
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "\ud83c\udf77\ud83e\udd42CARTA DE VINOS\ud83c\udf7e\ud83c\udf47",
+    "menu_items": [
+      {
+        "name": "M\u00d6ET & CHANDON ICE IMPERIAL ",
+        "description": "A.O.C. Champagne variedad. Chardonnay, Pinot Noir, Meunier.Crianza. 18 meses \nCOLOR.\nDorado profundo con reflejos ambarinos.\nNARIZ.\nLas notas iniciales son tropicales, con la potencia afrutada del mango y la pi\u00f1a. Estas dan paso a la generosidad de frutas con hueso como la nectarina, seguida de un matiz original de frambuesa.\nPALADAR GENEROSO QUE CONJUGA DULZURA Y FRESCURA\nTras la amplitud carnosa y golosa de una macedonia de fruta fresca, se aprecia la dulzura del caramelo y el dulce de membrillo. La fresca acidez del pomelo y el jengibre deja una sensaci\u00f3n viva en boca.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/101672_moet_chandon_ice_imperial_jeroboam_3L/5f453cd85a73ea70882f4f484d72f0ff.jpg",
+        "price": 95.0,
+        "allergens": [11]
+      },
+      {
+        "name": "M\u00d6ET & CHANDON ROSE IMPERIAL ",
+        "description": "La perfecta uni\u00f3n entre la intensidad de la Pinot noir, la frutosidad de la Meunier y la delicadeza de la Chardonnay combinada con la cuidada selecci\u00f3n de vinos de reserva que enaltecen su sutilidad y consistencia. La versi\u00f3n rosada de uno de los champagnes m\u00e1s vendidos del planeta. Ideal para refrescar las temporadas m\u00e1s calurosas del a\u00f1o. \nVista:Color rosado con reflejos ligeramente cobrizos.Nariz:Aromas expresivos con predominio de frutas del bosque, notas florales y un toque picante.Boca:Ataque con car\u00e1cter afrutado, explosivo y espont\u00e1neo, centro de boca tierno, final fresco y suave.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/C2A44B66-2E5B-495B-A2DA-135D3C9CB9D4/befffae88dd4ae7c6c1aaeacbbb8305b.png",
+        "price": 85.0,
+        "allergens": [11]
+      },
+      {
+        "name": "M\u00d6ET & CHANDON BRUT IMPERIAL",
+        "description": "A.O.C. Champagne.Variedad. Chardonnay, Pinot Noir, Meunier.Crianza. 36 meses \nM\u00f6et & Chandon Brut Imperial es un champagne en cuya elaboraci\u00f3n se incluyen m\u00e1s de 100 vinos distintos, el 30% de ellos son vinos reserva que se seleccionan e incorporan al coupage para potenciar su madurez, complejidad y constancia.\nNariz.\nOfrece notas vibrantes de manzana verde y de frutas c\u00edtricas acompa\u00f1adas de matices minerales, recuerdos de flores blancas as\u00ed como aromas de brioche y nueces frescas propios de su crianza. \nBoca.\nEs generoso y sutil donde se reafirma la presencia de la fruta blanca y de hueso con notas de grosellas espinosas acompa\u00f1adas por una burbuja bien integrada.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/TOMB%C3%9A-2018-NdP_FGjaqhg/d1c6ee6c86e4b601ba8d28807371630b.jpg",
+        "price": 75.0,
+        "allergens": []
+      },
+      {
+        "name": "GRAMONA ROSE",
+        "description": "D.O. CORPINNAT.VARIEDAD. PINOT NOIR.\nVISTA\nRosa frambuesa intenso de ribetes rosado-cobrizos  brillantes.\nNARIZ\nBuena intensidad, evoca frescor desde el principio. Intensas frutas rojas: fresillas silvestres, frambuesas, grosellas. Hierbas mediterr\u00e1neas: hinojo, lavanda.\nBOCA\nEntrada sabrosa, buena estructura, burbuja crujiente, fina y bien integrada. Vinoso y seco a su paso. En el retrogusto, las frutas rojas se manifiestan junto a los tonos bals\u00e1micos. Final gratamente refrescante.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/gramona-rose2016/4577c0c4b907917081231dd378f2661c.jpg",
+        "price": 40.0,
+        "allergens": [11]
+      },
+      {
+        "name": "BIDEONA CABEZADAS VIURA.",
+        "description": "D.O RIOJA.Bideona, Viura de Cabezadas 2019 est\u00e1 elaborado con uvas de vi\u00f1as viejas (de 20 a 40 a\u00f1os) de alta calidad de la variedad Viura, plantadas en las partes m\u00e1s altas de las parcelas de tinto (llamadas \"cabezadas\") sobre suelos de caliza en las poblaciones de Leza, Samaniego y Laguardia.Elaboraci\u00f3n tradicional y posterior afinamiento en dep\u00f3sitos de acero inoxidable con sus l\u00edas finas durante 4 meses.\nVistaColor amarillo p\u00e1lido y reflejos verdosos. Limpio y brillante.\nAromaFrutas de hueso y recuerdos de flores blancas. Fresco.\nBocaFrutoso, ligero pero concentrado. Final refrescante y seco.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/1000084511_88pkoby/9ea2256d481c340354ef70be74f1268c.jpg",
+        "price": 22.0,
+        "allergens": [11]
+      },
+      {
+        "name": "FERRATUS Albillo Mayor",
+        "description": "D.O. Ribera del DueroVariedad. Albillo mayorCrianza. sobre lias y barrica 6 meses\nEste gran vino blanco de la Ribera del Duero producido con la \u00fanica variedad blanca admitida por la D.O. proviene de vi\u00f1as de mas de 40 a\u00f1os, una muy delicada vendimia seguida por una crianza sobre l\u00edas y cuidado reposo en barrica, da como resultado un vino elegante, fragante y delicado, perfecto para acompa\u00f1ar el aperitivo, verduras a la parrilla, comida ex\u00f3tica como china, mexicana y pescado crudo y mariscos.\nNOTAS DE CATA\nColor amarillo paja p\u00e1lido. Transl\u00facido, limpio y brillante\n Fragante y delicado, destacan aromas a melocot\u00f3n blanco, camomila, jazm\u00edn, rosas blancas, hierbas arom\u00e1ticas del campo (tomillo, mejorana), miel, mineral y bals\u00e1mico. Presenta una nota ahumada y tostada final que le aporta singularidad.Boca compleja, untuosa, sedosa y con un final ligeramente ahumado y tostado con un toque mineral muy elegante. Acidez perfecta, equilibrada, amable.\nUn Blanco gastron\u00f3mico pensado para disfrutarlo pausadamente y que auspicia una gran longevidad.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_3720/4f06fefccc9d471d53393a09d6e7cc1f.png",
+        "price": 30.0,
+        "allergens": [11]
+      },
+      {
+        "name": "FINCA LA EMPERATRIZ GRAN VINO TINTO 2018",
+        "description": "\u2022D.O.Ca. RIOJA \u2022CRIANZA, 18 MESES EN BARRICA DE ROBLE FRANC\u00c9S \u2022VARIEDAD. TEMPRANILLO, GARNACHA Y VIURA. \nFinca La Emperatriz Reserva 2016 es un buen ejemplo de equilibrio entre clasicismo y modernidad riojana. Adem\u00e1s, el vi\u00f1edo del que proceden sus uvas cuenta con la certificaci\u00f3n de Vi\u00f1edo Singular, que hace referencia a aquellas peque\u00f1as parcelas que hist\u00f3ricamente han presentado una producci\u00f3n limitada de alta calidad. Prueba de esa excelencia, son las buenas puntuaciones que ha recibido esta a\u00f1ada, entre las que destacamos sus 94 puntos Parker.\nDespalillado al 100% y estrujado un 40%. La uva fermenta, con levaduras ind\u00edgenas, en dep\u00f3sito de hormig\u00f3n y macera en fr\u00edo durante 5 d\u00edas. Se hacen ligeros remontados una vez al d\u00eda. Tras 20 d\u00edas de maceraci\u00f3n postfermentativa se descuba directamente a barrica para realizar la fermentaci\u00f3n malol\u00e1ctica.\nVISTA. Color rojo cereza.\nNARIZ. oscura con aromas de fruta negra, regaliz y pimienta negra sobre un fondo especiado y bals\u00e1mico (vainilla y cedro).\nSABOR.  fresco y de acidez equilibrada. Toques de ciruela y cereza roja, sobre fondo de especies y vainilla. Madera bien integrada.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/9D7D86EF-0FC4-438D-AF7E-8B5292C58346/15a194e086c7492931cecc14ee06c3c8.jpeg",
+        "price": 45.0,
+        "allergens": [11]
+      },
+      {
+        "name": "HISPANIA 2019 ",
+        "description": "D.O. RIBERA DEL DUERO VARIEDAD TEMPRANILLO CRIANZA 21 MESES \nEste ribera 100% Tempranillo nos descubre los matices y la profundidad del terru\u00f1o del que procede, los suelos pedregosos y arcillo-calc\u00e1reos de la localidad burgalesa de La Horra. 21 meses de crianza en roble espa\u00f1ol Quercus pyrenaica lo afinaron hasta convertirle en un vino serio, con matices terrosos en nariz y una boca amplia, estructurada, elegante y marcada por la mineralidad. \nVista:Color rojo cereza profundo con ribetes viol\u00e1ceos.Nariz:Fruta muy fresca, tonos florales, monte bajo, tierra, sotobosque y bals\u00e1micos. El car\u00e1cter del roble espa\u00f1ol y la personalidad que infiere se reflejan en este vino. Serio, profundo y arom\u00e1tico, con caracteres terrosos en su m\u00e1xima expresi\u00f3n.Boca:Elegante, amplia, estructurada, robusta y grasa. Esencia de mineralidad, gran equilibrio en la conjunci\u00f3n de madera, tierra y fruta.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/15AEA71C-D31F-455C-9CBD-5EB1CAE5AB4F/ff60089b6acc7e7866c411b6056578d2.jpeg",
+        "price": 47.0,
+        "allergens": [11]
+      },
+      {
+        "name": "MAILLARD BOURGOGNE.",
+        "description": "A.O.C. BOURGOGNE.VARIEDAD. PINOT NOIR CRIANZA. 12 MESES \nNotas de cataTonalidad P\u00farpura, nariz de frutos rojos es un vino flexible y agradable en boca.El pinot noir de borgo\u00f1a es un vino que se bebe joven.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/1000071938/79381dbd67f978a18d21903f0bdc0bb7.jpg",
+        "price": 45.0,
+        "allergens": [11]
+      },
+      {
+        "name": "SALMOS D.O.a. PRIORAT ",
+        "description": "Torres Salmos es un vino tinto de la D.O. Priorat elaborado por la bodega Torres. Este vino de coupage se elabora a partir de las variedades Cari\u00f1ena, Garnacha y Syrah.\nSalmos naci\u00f3 en 1996 para homenajear a los monjes de la Cartuja, que plantaron las primeras vides en el Priorat en el a\u00f1o 1095. Este es un vino que rememora el antiguo legado ancestral de esta historia.\nVista:Color cereza oscuro, bien cubierto.Nariz:Intenso, concentrado. Con seductora expresi\u00f3n frutal (confitura de cassis) que culmina en finas notas pasificadas (ciruelas) y un toque mineral distintivo del terru\u00f1o.Boca:En boca es firme, en\u00e9rgico, sabroso y con un elegante tanino aterciopelado. Persistente y redondo.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/8590099B-B611-450B-BD37-91AC6AE53BFA/497197ff475f8a005e449dfd9df56524.png",
+        "price": 45.0,
+        "allergens": [11]
+      }
+    ]
+  },
+  {
+    "name": "\ud83c\udf79 SANGR\u00cdAS \ud83c\udf79",
+    "menu_items": [
+      {
+        "name": "\ud83c\udf47\ud83c\udf4aRED SANGRIA\u2744\ufe0f\ud83c\udf79",
+        "description": "NUESTRA VERSION BRUTAL DE LA SANGRIA\n\u2022VINO TINTO\u2022ZUMO DE NARANJA\u2022MARACUY\u00c1\u2022COINTREAU - licor hecho a base de c\u00e1scaras de naranja - \nCLASICA, CON UN LIGERO TOQUE TROPICAL, Y FRESCO, SIN PERDER EL CUERPO, Y LAS NOTAS VINICAS CARACTERISTICAS",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3D8A3F80-37BE-4058-94A4-16D0831C74F3/23845031c64af7a65e3d1271e176a0f3.jpeg",
+        "price": 8.0,
+        "allergens": [11]
+      },
+      {
+        "name": "\ud83c\udf39\ud83d\udd25PINK SANGRIA \ud83c\udf4a\ud83c\udf79",
+        "description": "-NUESTRA VERSION BRUTAL DE LA SANGRIA-\n\u2022VINO BLANCO\u2022COINTREAU - licor hecho a base de c\u00e1scaras de naranja - \u2022ZUMO DE ARANDANOS\u2022VERMOUTH ROSSO\u2022ROSAS\u2022MARACUYA\u2022CORDIAL DE LIMA Y ROSAS\nAFRUTADA Y REFRESCANTE CON NOTAS FLORALES Y LIGEROS PUNTOS AMARGOS.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/9F8BB7C5-5637-4804-BF16-67BC0CF10FC7/69579d32b4406a756dd86e29c237cd53.jpeg",
+        "price": 8.0,
+        "allergens": [11]
+      }
+    ]
+  },
+  {
+    "name": "\ud83e\udd58\ud83c\udf7dCOMIDA BRUTAL\ud83d\udd25\ud83e\udd47",
+    "menu_items": [
+      {
+        "name": "\ud83d\udea8\ud83d\udd25CEVICHE KING KONG \ud83e\udd8d\ud83d\udc1f",
+        "description": "Ceviche de corvina marinado en kalamensi, limon, naranja, zanahoria, ajo, gengibre, aji limo, curcuma, leche de coco, citronella - acompa\u00f1ado de chips de pl\u00e1tano, cebolla roja, brotes de cilantro y ma\u00edz.\nLas chips de pl\u00e1tano pueden contener trazas de glute, huevo, soja, leche y sulfitos ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_7956_ETJa3O9/9ef768d3768ce54edb52e6a8d8229248.jpeg",
+        "price": 17.0,
+        "allergens": [3]
+      },
+      {
+        "name": "SHABU SHABU DE ROAST PORK \ud83d\udc3dJOSELITO\ud83d\udc3d",
+        "description": "Cabezada joselito (pieza en exclusiva mundial para Inclan Brutal Bar) cocinada a baja temperatura y loncheada muy fina. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/4e24d8e0-bdfc-4a52-85d5-2a44d066296e/ed14c831c3946afcb563ec3cfb697bd6.jpeg",
+        "price": 18.0,
+        "allergens": [0, 11, 3, 5, 10]
+      },
+      {
+        "name": "BURRATA FRESCA INYECTADA  ",
+        "description": "Nuestra Burrata Italiana inyectada con una emulsion de  albahaca, un bloody mery sin alcohol a base de sisho y acompa\u00f1adas de nuestras fresas encurtidas.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/a323ceee-ee64-4943-9a33-06d066259b43/3c10ff18d06de7db59f1b04067c07c17.jpeg",
+        "price": 16.0,
+        "allergens": [11, 6, 3, 5, 7]
+      },
+      {
+        "name": "ENSALADA BRUTAL \ud83e\udd57",
+        "description": "Delicadas hojas de mezclum se entrelazan con jugosos tomates cherry, fresas marinadas con Kimche , cebolla roja encurtida y pepino con vinagre de naranja, suma su caracter\u00edstico frescor y textura crocante.\nPerfectamente ali\u00f1ada con una vinagreta de sidra, naranja y se enriquece con la profundidad del aceite de s\u00e9samo y de oliva.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/0e800f2a-600b-4108-90a2-dcb07b0a1839/e7c2f93c1964942d2082a5d311ad5fca.jpeg",
+        "price": 12.0,
+        "allergens": [0, 11, 5, 1, 10]
+      },
+      {
+        "name": "TORTILLA PATATA \u201cPREMIADA\u201d CON TRUFA NEGRA \ud83c\udfc6\ud83e\udd49 ",
+        "description": "Mezclada al momento con una patata jugosa confitada a diario , con cebolla pochada y aderezada con trufa negra. \nIDEAL PARA COMPARTIR \ud83d\ude1c",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/8a8d359c-6612-48f9-a23a-0ab84d7cc43c_NVovEZD/438785312deae6d1fabb9d80764eb326.jpeg",
+        "price": 13.0,
+        "allergens": [2]
+      },
+      {
+        "name": "\ud83e\udd5a \ud83c\udf73 TORTILLA DE PATATAS LAY\u2019S \ud83e\udd54 \ud83d\udd25",
+        "description": "Tortilla de patatas fritas estilo ferran adria, hecha al momento . ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/8a8d359c-6612-48f9-a23a-0ab84d7cc43c/4a7fb5d397ef2a5f90914ff108d58ba7.jpeg",
+        "price": 12.0,
+        "allergens": [2]
+      },
+      {
+        "name": "\ud83c\udf45\ud83c\udf53EL GAZPACHO M\u00c1S BRUTAL\ud83c\udf39\ud83d\udd25",
+        "description": "Gazpacho hecho de manera tradicional, con tomates de la huerta, ajo, pimiento, vinagre de jerez y aceite de oliva virgen extra, a\u00f1adimos nuestro toque brutal con fresas de temporada. \nApto para cel\u00edacos. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/dad428da-c1a3-4ce1-b242-96d386cb104c_X5mgcJU/2f439d525b0cc6638f2e00f76e2169fc.jpeg",
+        "price": 8.0,
+        "allergens": [11]
+      },
+      {
+        "name": "\ud83d\udc3d CROQUETAS \u201cBRUTALES \ud83d\udcaa\u201d DE JAM\u00d3N 6 uds.",
+        "description": "Intenso sabor a Jam\u00f3n \ud83e\udd24 y una CREMOSIDAD  que te dejara LOC@ Acompa\u00f1ado de Jam\u00f3n Ib\u00e9rico cortado por el SAMURAI DEL JAM\u00d3N EMILO GARC\u00cdA ORTIGOSA. \n6 UNIDADES ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_8553/4855e8da15ea5fc4199261ae927f8321.jpeg",
+        "price": 15.0,
+        "allergens": [0, 6, 2, 5]
+      },
+      {
+        "name": "\ud83e\udd66\ud83e\uddc0COLIFOR BRUTAL\ud83d\udd25\ud83c\udfc6",
+        "description": "Base de humus de remolacha, coliflor cocida a baja temperatura y una crema de aj\u00ed amarillo, ma\u00edz, tofu y queso fresco, que te dejara con la boca abierta \ud83e\udd24, coronada con cebolla frita y brotes de cilantro. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/WhatsApp_Image_2024-07-12_at_16.39.26/1273e15c4b988bfc4eb8e03953d3483e.jpeg",
+        "price": 15.0,
+        "allergens": [11, 6, 2, 10]
+      },
+      {
+        "name": "\ud83c\udf5fPATATAS \ud83e\udd54 CON SALSA BRUTAL\ud83d\udc83\ud83c\udffc\ud83d\udd25",
+        "description": "Nuestra versi\u00f3n m\u00e1s brutal de las patatas bravas Con salsa chipotle",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/e9e26186-6240-4218-aca1-ae8bdd954f06/acbddb73961c9fd70018a26e055b8395.jpeg",
+        "price": 10.0,
+        "allergens": [0, 11, 2]
+      },
+      {
+        "name": "PAN BAO \u201cCRUNCH CHIKEN\u201d \ud83d\udc14",
+        "description": "Pechuga de pollo crujiente con raz al honout, pepino encurtido, salsa brutal, cebolleta japonesa y salsa dulce.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/10AB8AEA-167C-4A8E-AF80-3D1EA1E6D04A/671d248e0d1ce942fe87fc714b6cc36f.jpeg",
+        "price": 9.0,
+        "allergens": [0, 11, 2, 5, 10]
+      },
+      {
+        "name": "\ud83c\udf2eTACOS\ud83c\udf2e Brutales de \ud83e\udd90 Gambas",
+        "description": "Taco de gambas al ajillo, \ud83e\udd90 con lombarda y col \ud83e\udd6c marinadas, pico de gallo y salsa de cilantro y lim\u00f3n. \nSIN GLUTEN ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240011_1/3e78c96173741b3177b9e28ecda38e9f.jpg",
+        "price": 14.0,
+        "allergens": [11, 2, 1]
+      },
+      {
+        "name": "BAO PANDA \ud83d\udc3c KUNG FU \ud83e\udd4b (1UD)",
+        "description": "*Precio por unidad*\nDe costilla de cerdo confitada, kimchi y cebolla encurtida.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4166/58c98d55d251a22a54fad2f102793368.jpeg",
+        "price": 9.0,
+        "allergens": [0, 11, 6, 2, 3, 5, 1, 13, 9, 10]
+      },
+      {
+        "name": "\ud83d\udd25\ud83d\udc3dDRAG\u00d3N SAAM \ud83d\udc09",
+        "description": "3 unidades de Saam, con panceta teriyaki confitada, con salsa de chipotle, pepinillo encurtido y corteza crujiente con piment\u00f3n dulce",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/96dfe11d-5f7f-4540-bd75-36ed06f07e3d/03173b90c406616b13bf1e8201adac28.jpeg",
+        "price": 14.0,
+        "allergens": [0, 11, 2, 5, 10]
+      },
+      {
+        "name": "\ud83c\udf44\ud83d\udd25TRAMPANTOJO CREMOSO TRUFADO\ud83c\udf3e\ud83e\uddc0",
+        "description": "Falso risotto mantecado con salsa de  Champi\u00f1ones de temporada, trufa picada y queso PARMIGIANO REGGIANO D.O.P. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_8257/ada0a79f97a24bd3b9fd45df30e1e442.jpeg",
+        "price": 16.0,
+        "allergens": [0, 11, 6, 5, 9]
+      },
+      {
+        "name": "EL JUEGO DEL \ud83d\udc19\ud83d\udc19CHIPIR\u00d3N \ud83d\udc19\ud83d\udc19",
+        "description": "Chipirones a la parrilla con emulsi\u00f3n de ajo negro y polvo de remolacha y papas arrugas con ajo y perejil.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_1080/8f89fd39b528aeb449f25e727bd42b7a.jpeg",
+        "price": 15.0,
+        "allergens": [2, 3, 13]
+      },
+      {
+        "name": "\ud83e\uddc0LASA\u00d1A DE  PARMIGIANO REGGIANO DE RABO DE TORO\ud83e\uddac",
+        "description": "Lasa\u00f1a de rabo de toro estofado muy lentamente durante 6 horas en nuestra salsa al jerez, una parmentier muy sedosa a base de *PARMIGIANO REGGIANO D.O.P. DE 40 MESES DE MADURACI\u00d3N* terminado en mesa con  mucho m\u00e1s PARMIGIANO REGGIANO D.O.P. rallado. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240037/15f9767752dcb714398fe73c314c3e72.jpg",
+        "price": 15.0,
+        "allergens": [0, 6, 2, 5]
+      },
+      {
+        "name": "\ud83e\udd86\ud83d\udd25ARROZ MELOSO DE PATO Y TRUFA  \ud83c\udf3e\ud83e\udd86",
+        "description": "Arroz meloso de pato con Trufa de temporada y terminado con QUESO PARMIGIANO REGGIANO. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240334/252c37b0b7f557ddc160e8324b8c6b44.jpg",
+        "price": 16.0,
+        "allergens": [0, 11, 6, 2, 5, 8]
+      },
+      {
+        "name": "TATAKI DE AT\u00daN \ud83c\udfa3",
+        "description": "Tataki de atun \ud83d\udc1f marinado Con sand\u00eda \ud83c\udf49 encurtida y salsa de lim\u00f3n \ud83c\udf4b y cilantro \ud83c\udf3f ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/c9ad992d-a860-4713-b0b1-8ca42facfebb/c12fb6f4aaf86859c5da45ec6ebcfa43.jpeg",
+        "price": 15.0,
+        "allergens": [11, 2, 3, 5]
+      },
+      {
+        "name": "\ud83d\udc19 PULPO CON PARMENTIER DE PATATA \ud83e\udd54",
+        "description": "Pulpo a la brasa con crema sedosa de patata con aceite de oliva virgen extra.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240371/580bceec56f307253c67855f89d0a1e8.jpg",
+        "price": 20.0,
+        "allergens": [1, 13]
+      },
+      {
+        "name": "\ud83c\udfc6\ud83d\udc1aZAMBURI\u00d1AS A LA BRASA \ud83c\udfdd\ufe0f\ud83d\udd25",
+        "description": "Nuestras ya famosas zamburi\u00f1as (vieiras del pacifico) a la brasa con la especial salsa kimchi, flambeadas y con ralladura de lima.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3e2874eb-be96-494f-bacf-6528e2736979/43f2dc87b4beb9909b6aefff4360d9fb.jpeg",
+        "price": 17.0,
+        "allergens": [0, 2, 3, 5, 1]
+      },
+      {
+        "name": "\ud83e\udd69LOMO ALTO DE VACA \ud83d\udc2eA LA BRASA \ud83d\udd25.",
+        "description": "\u00c1nimate!!! Dinos tu punto!!\nTe apetece con EXTRA DE ensalada de lechuga (+7\u20ac) o con patatas con salsa BRUTAL(+7\u20ac)?",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/inclan_brutal_bar_madrid_restaurante_carta_digital_foodyt-02461_6lunv1V/6f7718336b7a3fb170e981162be80e28.jpg",
+        "price": 40.0,
+        "allergens": []
+      },
+      {
+        "name": "ARROZ DEL SE\u00d1ORITO \u201cTODO PELADITO\u201d\ud83e\udd58\ud83e\udd70",
+        "description": "Arroz seco de marisco con gamba, mejillones y chipirones",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240289/806a29d56eb984cb665547210237c3ba.jpg",
+        "price": 37.0,
+        "allergens": [11, 3, 1, 13]
+      }
+    ]
+  },
+  {
+    "name": "\ud83d\udcab\ud83d\udd25MEN\u00da DEGUSTACI\u00d3N BRUTAL\ud83d\udcf8\ud83e\udd47",
+    "menu_items": [
+      {
+        "name": "MEN\u00da DEGUSTACI\u00d3N BRUTAL",
+        "description": "PRECIO POR PERSONA 55\u20ac\nC\u00d3CTEL DE BIENVENIDA ( SANTA ANA SOUR )PARA COMPARTIR ENTRE 2 PERSONAS - ZAMBURI\u00d1AS A LA BRASA CON KIMCHI (2UNIDS POR PERSONA)- SHABU-SHABU DE ROASTPORK \"JOSELITO\" (2pax)- BAO PANDA KUN FU DE COSTILLA CONFITADA (1 POR PERSONA) - TATAKI DE AT\u00daN Y MAYONESA DE LIMA Y CILANTRO  (2pax)- ARROZ MELOSO DE PATO Y TRUFA (2 pax) DULCE DE LOCURA:- TARTA DE QUESO FLUIDA (2 pax) -CHOCOLATE COSTRADO PACARI Y VIOLETAS MADRILE\u00d1AS (2pax) BEBIDA A ELEGIR:( ELEGIR UNA POR PERSONA)- C\u00d3CTEL DE LA CARTAO COPAS DE VINO/CERVEZA( POR PERSONA)COMPLEMENTOS:PAN, AGUA Y CAF\u00c9 INCLUIDOS",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/inclanlogo2/23d6069870883c8f3f0429a9f306ce58.png",
+        "price": 55.0,
+        "allergens": []
+      },
+      {
+        "name": "SANTA ANA SOUR \ud83c\udf4b\ud83c\udf78",
+        "description": "GINEBRA TANQUERAYZUMO NATURAL DE JENGIBRE Y LIMONALBAHACACLARA HUEVO \nNuestra mezcla entre Moscow Mule y vodka sour.. Trago corto ideal para aperitivo odigestivo, c\u00edtrico, seco y con un toque picante ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240130_1/873b41cfa7b7a6990822f7f0f180383d.jpg",
+        "price": 12.0,
+        "allergens": [2]
+      },
+      {
+        "name": "\ud83c\udfc6\ud83d\udc1aZAMBURI\u00d1AS A LA BRASA \ud83c\udfdd\ufe0f\ud83d\udd25",
+        "description": "Nuestras ya famosas zamburi\u00f1as (vieiras del pacifico) a la brasa con la especial salsa kimchi, flambeadas y con ralladura de lima.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3e2874eb-be96-494f-bacf-6528e2736979/43f2dc87b4beb9909b6aefff4360d9fb.jpeg",
+        "price": 17.0,
+        "allergens": [0, 2, 3, 5, 1]
+      },
+      {
+        "name": "BAO PANDA \ud83d\udc3c KUNG FU \ud83e\udd4b (1UD)",
+        "description": "*Precio por unidad*\nDe costilla de cerdo confitada, kimchi y cebolla encurtida.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4166/58c98d55d251a22a54fad2f102793368.jpeg",
+        "price": 9.0,
+        "allergens": [0, 11, 6, 2, 3, 5, 1, 13, 9, 10]
+      },
+      {
+        "name": "SHABU SHABU DE ROAST PORK \ud83d\udc3dJOSELITO\ud83d\udc3d",
+        "description": "Cabezada joselito (pieza en exclusiva mundial para Inclan Brutal Bar) cocinada a baja temperatura y loncheada muy fina. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/4e24d8e0-bdfc-4a52-85d5-2a44d066296e/ed14c831c3946afcb563ec3cfb697bd6.jpeg",
+        "price": 18.0,
+        "allergens": [0, 11, 3, 5, 10]
+      },
+      {
+        "name": "TATAKI DE AT\u00daN \ud83c\udfa3",
+        "description": "Tataki de atun \ud83d\udc1f marinado Con sand\u00eda \ud83c\udf49 encurtida y salsa de lim\u00f3n \ud83c\udf4b y cilantro \ud83c\udf3f ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/c9ad992d-a860-4713-b0b1-8ca42facfebb/c12fb6f4aaf86859c5da45ec6ebcfa43.jpeg",
+        "price": 15.0,
+        "allergens": [11, 2, 3, 5]
+      },
+      {
+        "name": "\ud83e\udd86\ud83d\udd25ARROZ MELOSO DE PATO Y TRUFA  \ud83c\udf3e\ud83e\udd86",
+        "description": "Arroz meloso de pato con Trufa de temporada y terminado con QUESO PARMIGIANO REGGIANO. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240334/252c37b0b7f557ddc160e8324b8c6b44.jpg",
+        "price": 16.0,
+        "allergens": [0, 11, 6, 2, 5, 8]
+      },
+      {
+        "name": " \u2b50\ud83e\uddc0BRUTAL CHEESECAKE \ud83e\uddc0\u2b50",
+        "description": "Tarta de queso con mezcla de quesos y base de galleta de mantequilla.Hecha cada servicio para que este perfecta!\nUNA MUY BUENA OPCION SIN GLUTEN\u00a1\u00a1\u00a1\u00a1",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/C751E0CF-283D-430B-8327-144ED9F38EE4/b7d3976825cb0a32ab70bbcfb460a003.jpeg",
+        "price": 9.0,
+        "allergens": [6, 2]
+      },
+      {
+        "name": "\ud83d\udd25\ud83c\udf6bCHOCOLATE COSTRADO \ud83c\udf66\ud83c\udf6b",
+        "description": "Costra de chocolate Pacari (ganador del World cacao award), sal gruesa para potenciar el sabor a chocolate, acompa\u00f1ado de helado de dulce de violetas (muy t\u00edpico de Madrid) y naranja. \nSin helado tiene al\u00e9rgenos:lactosa, huevo y gluten",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG-20220624-WA0032_MP7kavz/b572bb8bd6c43313d5d38a0504c46864.jpg",
+        "price": 9.0,
+        "allergens": [0, 11, 6, 2, 4, 5, 8, 1, 13, 9, 10, 12, 7]
+      },
+      {
+        "name": "\ud83e\udd39\u200d\u2642\ufe0f\ud83c\udfafNEMESIS\ud83c\udf8a\ud83d\udea8",
+        "description": "JUNE PERAJUNE MELOCOTONGINEBRA SHRUB FRUTOS ROJOSFLOR DE SA\u00daCOMIX DE CITRICOSCORDIAL DE LIMA \nTRAGO LARGO, AFRUTADO Y REFRESCANTE",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0260/bf90a1e79425e1da276aa539ea88a1e3.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83e\uddbe\ud83e\udef6ME QUITO EL CR\u00c1NEO \ud83d\udd25\ud83d\udc80",
+        "description": "RON ZACAPA 23PEDRO XIMENEZFRUTA PASI\u00d3NZUMO NARANJAVAINILLAMIX CITRICOS\nUn twist del cl\u00e1sico pornstar martini, trago largo con una entrada \u00e1cida y un finaluntuoso y dulce aportado por el N\u00e9ctar de Pedro Ximenez.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0264/811b31513921cfc53bdfe166bd121edb.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "               \ud83d\udc23VIRGIN MANDA HUEVOS\ud83e\udd96",
+        "description": "TANQUERAY 00SIROPE PEPINO Y FLOR DE SAUCOLIMONADA DE JENGIBRE\nNuestra versi\u00f3n del popular Moscow mule sin alcohol",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4790/dab8f438959c8e2fe3795675e2a3cdb0.jpeg",
+        "price": 11.0,
+        "allergens": []
+      },
+      {
+        "name": "THE MASK",
+        "description": "RON SANTA TERESAGINEBRA BOMBAY SAPPHIRELICOR MELON VERDESIROPE MELON PURE DE LICHI MIX CITRICOS\nTrago largo afrutado, fresco y refrescante",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240022/2df33c1664a75060aae65a4c6e14d0ca.jpg",
+        "price": 13.0,
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "\ud83c\udf70\ud83c\udf67MOMENTO GOLOSO\ud83c\udf66\ud83c\udf68",
+    "menu_items": [
+      {
+        "name": "\ud83d\udd25\ud83c\udf6bCHOCOLATE COSTRADO \ud83c\udf66\ud83c\udf6b",
+        "description": "Costra de chocolate Pacari (ganador del World cacao award), sal gruesa para potenciar el sabor a chocolate, acompa\u00f1ado de helado de dulce de violetas (muy t\u00edpico de Madrid) y naranja. \nSin helado tiene al\u00e9rgenos:lactosa, huevo y gluten",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG-20220624-WA0032_MP7kavz/b572bb8bd6c43313d5d38a0504c46864.jpg",
+        "price": 9.0,
+        "allergens": [0, 11, 6, 2, 4, 5, 8, 1, 13, 9, 10, 12, 7]
+      },
+      {
+        "name": " \u2b50\ud83e\uddc0BRUTAL CHEESECAKE \ud83e\uddc0\u2b50",
+        "description": "Tarta de queso con mezcla de quesos y base de galleta de mantequilla.Hecha cada servicio para que este perfecta!\nUNA MUY BUENA OPCION SIN GLUTEN\u00a1\u00a1\u00a1\u00a1",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/C751E0CF-283D-430B-8327-144ED9F38EE4/b7d3976825cb0a32ab70bbcfb460a003.jpeg",
+        "price": 9.0,
+        "allergens": [6, 2]
+      },
+      {
+        "name": "\ud83c\udf3e \ud83c\udf5a Arroz Con Leche La Teta Loca ",
+        "description": "Arroz con leche Cremoso de la Casa,  Con Un Matiz Sutil De Piel De Naranja Sobre Una Base De Frutos Secos",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0126/4b10113201a06c2596819b00ff1741bf.jpeg",
+        "price": 9.0,
+        "allergens": []
+      },
+      {
+        "name": "TIRAMISU \u201cBRUTAL\u201d \u2615\ufe0f",
+        "description": "Receta cl\u00e1sica de la nonna italiana servido en una cafetera de expreso. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/920fcbcb-b5f5-4967-b50a-64c742b77d8f/aff3023f2fdd8b5c6a29d3be0a16b6f0.jpeg",
+        "price": 9.0,
+        "allergens": [0, 6, 2, 7]
+      },
+      {
+        "name": "\ud83c\udf6b\ud83e\udd5c\ud83e\udee6SEXY NOCCIOLA BRUTAL\ud83d\udd25\ud83d\udd25\ud83d\udca5",
+        "description": "Huesitos, hechos de barquillo crujiente con crema de cacao, avellanas y peta-zetas de frambuesa. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/4FE2F532-FF53-46DD-8FFC-BDE1CACA5CA0/fb749d9c09fa4e9a85c39cbbde69ca4a.jpeg",
+        "price": 9.0,
+        "allergens": [0, 6, 2, 5, 7]
+      },
+      {
+        "name": "\ud83c\udf6c\ud83d\udca5 TOFFE MARTINI \ud83c\udf78\u2615\ufe0f",
+        "description": "VODKA KETEL ONELICOR CAFESIROPE TOFFE CAFE ESPRESSOESPUMA DE TOFFE FLAMBEADA",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240172_1/f64fbb72362aed8193a33136ccea1db2.jpg",
+        "price": 12.0,
+        "allergens": [2]
+      }
+    ]
+  },
+  {
+    "name": "INFLUENCERS EXPERIENCE \ud83d\udcf8",
+    "menu_items": [
+      {
+        "name": "\ud83c\udf39\ud83d\udd25PINK SANGRIA \ud83c\udf4a\ud83c\udf79",
+        "description": "-NUESTRA VERSION BRUTAL DE LA SANGRIA-\n\u2022VINO BLANCO\u2022COINTREAU - licor hecho a base de c\u00e1scaras de naranja - \u2022ZUMO DE ARANDANOS\u2022VERMOUTH ROSSO\u2022ROSAS\u2022MARACUYA\u2022CORDIAL DE LIMA Y ROSAS\nAFRUTADA Y REFRESCANTE CON NOTAS FLORALES Y LIGEROS PUNTOS AMARGOS.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/9F8BB7C5-5637-4804-BF16-67BC0CF10FC7/69579d32b4406a756dd86e29c237cd53.jpeg",
+        "price": 8.0,
+        "allergens": [11]
+      },
+      {
+        "name": "\ud83c\udf47\ud83c\udf4aRED SANGRIA\u2744\ufe0f\ud83c\udf79",
+        "description": "NUESTRA VERSION BRUTAL DE LA SANGRIA\n\u2022VINO TINTO\u2022ZUMO DE NARANJA\u2022MARACUY\u00c1\u2022COINTREAU - licor hecho a base de c\u00e1scaras de naranja - \nCLASICA, CON UN LIGERO TOQUE TROPICAL, Y FRESCO, SIN PERDER EL CUERPO, Y LAS NOTAS VINICAS CARACTERISTICAS",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3D8A3F80-37BE-4058-94A4-16D0831C74F3/23845031c64af7a65e3d1271e176a0f3.jpeg",
+        "price": 8.0,
+        "allergens": [11]
+      },
+      {
+        "name": "\ud83d\udc3d CROQUETAS \u201cBRUTALES \ud83d\udcaa\u201d DE JAM\u00d3N 6 uds.",
+        "description": "Intenso sabor a Jam\u00f3n \ud83e\udd24 y una CREMOSIDAD  que te dejara LOC@ Acompa\u00f1ado de Jam\u00f3n Ib\u00e9rico cortado por el SAMURAI DEL JAM\u00d3N EMILO GARC\u00cdA ORTIGOSA. \n6 UNIDADES ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_8553/4855e8da15ea5fc4199261ae927f8321.jpeg",
+        "price": 15.0,
+        "allergens": [0, 6, 2, 5]
+      },
+      {
+        "name": "TORTILLA PATATA \u201cPREMIADA\u201d CON TRUFA NEGRA \ud83c\udfc6\ud83e\udd49 ",
+        "description": "Mezclada al momento con una patata jugosa confitada a diario , con cebolla pochada y aderezada con trufa negra. \nIDEAL PARA COMPARTIR \ud83d\ude1c",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/8a8d359c-6612-48f9-a23a-0ab84d7cc43c_NVovEZD/438785312deae6d1fabb9d80764eb326.jpeg",
+        "price": 13.0,
+        "allergens": [2]
+      },
+      {
+        "name": "BURRATA FRESCA INYECTADA  ",
+        "description": "Nuestra Burrata Italiana inyectada con una emulsion de  albahaca, un bloody mery sin alcohol a base de sisho y acompa\u00f1adas de nuestras fresas encurtidas.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/a323ceee-ee64-4943-9a33-06d066259b43/3c10ff18d06de7db59f1b04067c07c17.jpeg",
+        "price": 16.0,
+        "allergens": [11, 6, 3, 5, 7]
+      },
+      {
+        "name": "\ud83c\udfc6\ud83d\udc1aZAMBURI\u00d1AS A LA BRASA \ud83c\udfdd\ufe0f\ud83d\udd25",
+        "description": "Nuestras ya famosas zamburi\u00f1as (vieiras del pacifico) a la brasa con la especial salsa kimchi, flambeadas y con ralladura de lima.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/3e2874eb-be96-494f-bacf-6528e2736979/43f2dc87b4beb9909b6aefff4360d9fb.jpeg",
+        "price": 17.0,
+        "allergens": [0, 2, 3, 5, 1]
+      },
+      {
+        "name": "\ud83d\udd25\ud83d\udc3dDRAG\u00d3N SAAM \ud83d\udc09",
+        "description": "3 unidades de Saam, con panceta teriyaki confitada, con salsa de chipotle, pepinillo encurtido y corteza crujiente con piment\u00f3n dulce",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/96dfe11d-5f7f-4540-bd75-36ed06f07e3d/03173b90c406616b13bf1e8201adac28.jpeg",
+        "price": 14.0,
+        "allergens": [0, 11, 2, 5, 10]
+      },
+      {
+        "name": "BAO PANDA \ud83d\udc3c KUNG FU \ud83e\udd4b (1UD)",
+        "description": "*Precio por unidad*\nDe costilla de cerdo confitada, kimchi y cebolla encurtida.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_4166/58c98d55d251a22a54fad2f102793368.jpeg",
+        "price": 9.0,
+        "allergens": [0, 11, 6, 2, 3, 5, 1, 13, 9, 10]
+      },
+      {
+        "name": "\ud83c\udf2eTACOS\ud83c\udf2e Brutales de \ud83e\udd90 Gambas",
+        "description": "Taco de gambas al ajillo, \ud83e\udd90 con lombarda y col \ud83e\udd6c marinadas, pico de gallo y salsa de cilantro y lim\u00f3n. \nSIN GLUTEN ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240011_1/3e78c96173741b3177b9e28ecda38e9f.jpg",
+        "price": 14.0,
+        "allergens": [11, 2, 1]
+      },
+      {
+        "name": "TATAKI DE AT\u00daN \ud83c\udfa3",
+        "description": "Tataki de atun \ud83d\udc1f marinado Con sand\u00eda \ud83c\udf49 encurtida y salsa de lim\u00f3n \ud83c\udf4b y cilantro \ud83c\udf3f ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/c9ad992d-a860-4713-b0b1-8ca42facfebb/c12fb6f4aaf86859c5da45ec6ebcfa43.jpeg",
+        "price": 15.0,
+        "allergens": [11, 2, 3, 5]
+      },
+      {
+        "name": "\ud83c\udf44\ud83d\udd25TRAMPANTOJO CREMOSO TRUFADO\ud83c\udf3e\ud83e\uddc0",
+        "description": "Falso risotto mantecado con salsa de  Champi\u00f1ones de temporada, trufa picada y queso PARMIGIANO REGGIANO D.O.P. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_8257/ada0a79f97a24bd3b9fd45df30e1e442.jpeg",
+        "price": 16.0,
+        "allergens": [0, 11, 6, 5, 9]
+      },
+      {
+        "name": "\ud83e\uddc0LASA\u00d1A DE  PARMIGIANO REGGIANO DE RABO DE TORO\ud83e\uddac",
+        "description": "Lasa\u00f1a de rabo de toro estofado muy lentamente durante 6 horas en nuestra salsa al jerez, una parmentier muy sedosa a base de *PARMIGIANO REGGIANO D.O.P. DE 40 MESES DE MADURACI\u00d3N* terminado en mesa con  mucho m\u00e1s PARMIGIANO REGGIANO D.O.P. rallado. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240037/15f9767752dcb714398fe73c314c3e72.jpg",
+        "price": 15.0,
+        "allergens": [0, 6, 2, 5]
+      },
+      {
+        "name": "\ud83e\udd86\ud83d\udd25ARROZ MELOSO DE PATO Y TRUFA  \ud83c\udf3e\ud83e\udd86",
+        "description": "Arroz meloso de pato con Trufa de temporada y terminado con QUESO PARMIGIANO REGGIANO. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240334/252c37b0b7f557ddc160e8324b8c6b44.jpg",
+        "price": 16.0,
+        "allergens": [0, 11, 6, 2, 5, 8]
+      },
+      {
+        "name": " \u2b50\ud83e\uddc0BRUTAL CHEESECAKE \ud83e\uddc0\u2b50",
+        "description": "Tarta de queso con mezcla de quesos y base de galleta de mantequilla.Hecha cada servicio para que este perfecta!\nUNA MUY BUENA OPCION SIN GLUTEN\u00a1\u00a1\u00a1\u00a1",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/C751E0CF-283D-430B-8327-144ED9F38EE4/b7d3976825cb0a32ab70bbcfb460a003.jpeg",
+        "price": 9.0,
+        "allergens": [6, 2]
+      },
+      {
+        "name": "TIRAMISU \u201cBRUTAL\u201d \u2615\ufe0f",
+        "description": "Receta cl\u00e1sica de la nonna italiana servido en una cafetera de expreso. ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/920fcbcb-b5f5-4967-b50a-64c742b77d8f/aff3023f2fdd8b5c6a29d3be0a16b6f0.jpeg",
+        "price": 9.0,
+        "allergens": [0, 6, 2, 7]
+      },
+      {
+        "name": "\ud83c\udf3e \ud83c\udf5a Arroz Con Leche La Teta Loca ",
+        "description": "Arroz con leche Cremoso de la Casa,  Con Un Matiz Sutil De Piel De Naranja Sobre Una Base De Frutos Secos",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG_0126/4b10113201a06c2596819b00ff1741bf.jpeg",
+        "price": 9.0,
+        "allergens": []
+      },
+      {
+        "name": "THE MASK",
+        "description": "RON SANTA TERESAGINEBRA BOMBAY SAPPHIRELICOR MELON VERDESIROPE MELON PURE DE LICHI MIX CITRICOS\nTrago largo afrutado, fresco y refrescante",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/INCLAN_ENE_240022/2df33c1664a75060aae65a4c6e14d0ca.jpg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83d\udc78 MISS.. \u2764\ufe0f\u2764\ufe0fMARILYN \ud83d\udc8b\ud83d\udc8b",
+        "description": "GINEBRA TANQUERAYMANZANILLACAMPARISIROPE MANZANA VERDE CORDIAL DE LIMAZUMO DE NARANAJA SODA DE POMELO \nCoctel de trago largo, refrescante con matices ligeramente amargas.",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/11c2fe88-3d0a-4fc1-b376-33544acea51e/f6c32b59f8a343bed00b10de49cedde5.jpeg",
+        "price": 13.0,
+        "allergens": []
+      },
+      {
+        "name": "\ud83d\udc92\ud83c\udf80BARBIE\ud83c\udf6d\ud83d\udc93",
+        "description": "RON DIPLOMATICOSHRUB FRUTOS ROJOSCORDIAL LIMA MIX DE CITRICOS AZUCAR HIERBABUENA\nCOCTEL REFRESCANTE Y AFRUTADO ",
+        "image": "https://menu.tipsipro.com/media/CACHE/images/uploads/IMG-20230919-WA0007_VQ8MvQI/76616b9ff86f83735226adbff678b10d.jpg",
+        "price": 13.0,
+        "allergens": []
+      }
+    ]
+  }
+]

@@ -6,7 +6,7 @@ export const licenseUsers = pgTable('license_users', {
   id: serial('id').primaryKey(),
 
   licenseId: integer('license_id')
-    .references(() => licenses.id)
+    .references(() => licenses.id, { onDelete: 'cascade' })
     .notNull(),
 
   userId: integer('user_id')

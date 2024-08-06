@@ -14,7 +14,9 @@
     "db:pull": "drizzle-kit introspect",
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio",
-    "db:check": "drizzle-kit check"
+    "db:check": "drizzle-kit check",
+    "db:seed": "tsx scripts/seed.ts",
+    "test": "tsx lib/actions/menuItems.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.40",
@@ -23,6 +25,7 @@
     "@nextui-org/react": "2.4.2",
     "@t3-oss/env-nextjs": "^0.11.0",
     "ai": "^3.2.37",
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.32.1",
     "drizzle-zod": "^0.5.1",
