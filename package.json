@@ -19,15 +19,15 @@
     "test": "tsx lib/actions/menuItems.ts"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^0.0.40",
+    "@ai-sdk/openai": "0.0.40",
     "@nextui-org/button": "2.0.34",
     "@nextui-org/react": "2.4.2",
     "@t3-oss/env-nextjs": "0.11.0",
     "ai": "3.3.2",
     "bcrypt": "5.1.1",
     "dotenv": "16.4.5",
-    "drizzle-orm": "^0.32.2",
-    "drizzle-zod": "^0.5.1",
+    "drizzle-orm": "0.32.2",
+    "drizzle-zod": "0.5.1",
     "framer-motion": "11.3.6",
     "lint-staged": "15.2.7",
     "nanoid": "5.0.7",
