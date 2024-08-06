@@ -1,27 +1,5 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": [
-    {
-      "idx": 0,
-      "version": "7",
-      "when": 1722875172631,
-      "tag": "0000_far_nuke",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1722875586525,
-      "tag": "0001_many_forge",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1722983879308,
-      "tag": "0002_broad_exiles",
-      "breakpoints": true
-    }
-  ]
+  "entries": []
 }
