@@ -1,7 +1,8 @@
 'use server';
 
-import { embedMany } from 'ai';
 import { openai } from '@ai-sdk/openai';
+import { embedMany } from 'ai';
+
 import { env } from '../env.mjs';
 
 const embeddingModel = openai.embedding(env.EMBEDDING_MODEL);

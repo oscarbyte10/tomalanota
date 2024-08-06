@@ -1,6 +1,7 @@
-import { pgTable, integer, varchar, serial } from 'drizzle-orm/pg-core';
-import { users } from './users';
+import { integer, pgTable, serial } from 'drizzle-orm/pg-core';
+
 import { licenses } from './licenses';
+import { users } from './users';
 
 export const licenseUserRoles = pgTable('license_user_roles', {
   id: serial('id').primaryKey(),

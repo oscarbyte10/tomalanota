@@ -6,7 +6,9 @@ import {
   varchar,
   vector,
 } from 'drizzle-orm/pg-core';
+
 import { nanoid } from '@/lib/utils';
+
 import { workspaces } from './workspaces';
 
 export const embeddings = pgTable(

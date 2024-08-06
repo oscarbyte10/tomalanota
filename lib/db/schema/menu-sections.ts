@@ -1,15 +1,16 @@
 import {
+  index,
+  integer,
   pgTable,
+  serial,
   timestamp,
   varchar,
-  serial,
-  integer,
-  index,
 } from 'drizzle-orm/pg-core';
-import { users } from './users';
-import { workspaces } from './workspaces';
 import { createInsertSchema, createSelectSchema } from 'drizzle-zod';
 import { z } from 'zod';
+
+import { users } from './users';
+import { workspaces } from './workspaces';
 
 export const menuSections = pgTable(
   'menu_sections',
@@ -31,7 +32,7 @@ export const menuSections = pgTable(
       .notNull(),
   },
   (table) => ({
-    nameIdx: index('name_idx').on(table.name),
+    nameIdx: index('section_name_idx').on(table.name),
     workspaceIdIdx: index('workspace_id_idx').on(table.workspaceId),
   }),
 );

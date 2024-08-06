@@ -1,14 +1,15 @@
 'use server';
 
+import { SQL, sql } from 'drizzle-orm';
+
+import { db } from '../db';
 import {
   insertMenuItemSchema,
   menuItems,
   NewMenuItem,
   SelectMenuItem,
-} from '../db/schema/menuItems';
-import { db } from '../db';
+} from '../db/schema/menu-items';
 import { CrudBaseRespose } from '../utils';
-import { SQL, sql } from 'drizzle-orm';
 
 export const createMenuSection = async (input: NewMenuItem) => {
   const response: CrudBaseRespose = { success: true };
@@ -55,7 +56,3 @@ export const selectMenuSections = async (input: SelectMenuItem) => {
 
   return response;
 };
-
-selectMenuSections({ menuSectionId: 1 }).then((res) => console.log(res));
-
-let i = 0;

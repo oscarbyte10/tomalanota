@@ -1,17 +1,18 @@
 import {
-  pgTable,
-  varchar,
-  numeric,
-  serial,
-  integer,
-  timestamp,
   boolean,
   index,
+  integer,
+  numeric,
+  pgTable,
+  serial,
+  timestamp,
+  varchar,
 } from 'drizzle-orm/pg-core';
-import { users } from './users';
-import { menuSections } from './menuSections';
 import { createInsertSchema, createSelectSchema } from 'drizzle-zod';
 import { z } from 'zod';
+
+import { menuSections } from './menu-sections';
+import { users } from './users';
 
 export const menuItems = pgTable(
   'menu_items',
@@ -48,7 +49,7 @@ export const menuItems = pgTable(
       .$onUpdate(() => new Date()),
   },
   (table) => ({
-    nameIdx: index('name_idx').on(table.name),
+    nameIdx: index('item_name_idx').on(table.name),
     menuSectionIdIdx: index('menu_section_id_idx').on(table.menuSectionId),
   }),
 );

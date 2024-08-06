@@ -1,9 +1,9 @@
 import {
-  pgTable,
-  varchar,
-  timestamp,
   boolean,
+  pgTable,
   serial,
+  timestamp,
+  varchar,
 } from 'drizzle-orm/pg-core';
 
 export const users = pgTable('users', {

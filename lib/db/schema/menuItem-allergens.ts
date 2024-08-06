@@ -1,6 +1,7 @@
 import { integer, pgTable, serial } from 'drizzle-orm/pg-core';
-import { menuItems } from './menuItems';
+
 import { allergens } from './allergens';
+import { menuItems } from './menu-items';
 
 export const menuItemAllergens = pgTable('menu_item_allergens', {
   id: serial('id').primaryKey(),
