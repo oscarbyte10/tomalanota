@@ -1,0 +1,9 @@
+{
+  "description": "Toma La Nota et permet passar la comanda al teu cambrer de manera ràpida i senzilla",
+  "HomePage": {
+    "starters": "Entrants",
+    "mainCourses": "Plats principals",
+    "desserts": "Postres",
+    "drinks": "Begudes"
+  }
+}
