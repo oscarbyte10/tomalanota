@@ -11,7 +11,7 @@ import {
 } from '../db/schema/menu-items';
 import { CrudBaseRespose } from '../utils';
 
-export const createMenuSection = async (input: NewMenuItem) => {
+export const createMenuItem = async (input: NewMenuItem) => {
   const response: CrudBaseRespose = { success: true };
 
   try {
@@ -29,7 +29,7 @@ export const createMenuSection = async (input: NewMenuItem) => {
   return response;
 };
 
-export const selectMenuSections = async (input: SelectMenuItem) => {
+export const selectMenuItems = async (input: SelectMenuItem) => {
   const response: CrudBaseRespose = { success: true };
 
   try {
