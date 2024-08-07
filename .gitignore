@@ -40,4 +40,3 @@ next-env.d.ts
 
 # db provider config
 supabase
-temp
