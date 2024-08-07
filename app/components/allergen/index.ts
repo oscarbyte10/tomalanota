@@ -1,0 +1,1 @@
+export { Allergen } from './allergen';

@@ -5,5 +5,9 @@
     "mainCourses": "Main Courses",
     "desserts": "Desserts",
     "drinks": "Drinks"
+  },
+  "MenuItemCard": {
+    "imageAlt": "Image of {dish}",
+    "allergens": "Allergens"
   }
 }

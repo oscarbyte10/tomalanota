@@ -5,5 +5,9 @@
     "mainCourses": "Platos principales",
     "desserts": "Postres",
     "drinks": "Bebidas"
+  },
+  "MenuItemCard": {
+    "imageAlt": "Imagen de {{dish}}",
+    "allergens": "Alérgenos"
   }
 }
