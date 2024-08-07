@@ -54,8 +54,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "next/core-web-vitals",
-      "prettier"
+      "next/core-web-vitals"
     ],
     "rules": {
       "no-unused-vars": "error",
@@ -102,6 +101,10 @@
   "lint-staged": {
     "*.{ts,tsx,md,json}": [
       "prettier --write"
+    ],
+    "*.{ts,tsx}": [
+      "eslint --fix",
+      "eslint"
     ]
   }
 }
