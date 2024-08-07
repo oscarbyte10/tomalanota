@@ -1,14 +1,15 @@
 import { sql } from 'drizzle-orm';
+
 import { db } from '@/lib/db';
-import { licenses } from '@/lib/db/schema/licenses';
-import { licenseUsers } from '@/lib/db/schema/license-users';
+import { allergens } from '@/lib/db/schema/allergens';
 import { licenseUserRoles } from '@/lib/db/schema/license-user-roles';
+import { licenseUsers } from '@/lib/db/schema/license-users';
+import { licenses } from '@/lib/db/schema/licenses';
+import { menuItemAllergens } from '@/lib/db/schema/menu-item-allergens';
+import { menuItems } from '@/lib/db/schema/menu-items';
+import { menuSections } from '@/lib/db/schema/menu-sections';
 import { users } from '@/lib/db/schema/users';
 import { workspaces } from '@/lib/db/schema/workspaces';
-import { menuSections } from '@/lib/db/schema/menu-sections';
-import { menuItems } from '@/lib/db/schema/menu-items';
-import { menuItemAllergens } from '@/lib/db/schema/menuItem-allergens';
-import { allergens } from '@/lib/db/schema/allergens';
 
 const ALLERGENS_URL =
   'https://qnjpseqsshhcvnsycnll.supabase.co/storage/v1/object/public/tomalanota/allergens.json';
