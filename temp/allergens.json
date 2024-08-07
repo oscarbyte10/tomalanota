@@ -1,19 +1,23 @@
 [
   {
     "name": "Gluten",
-    "id": 0
+    "id": 0,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Gluten.png"
   },
   {
     "name": "Crustáceos",
-    "id": 1
+    "id": 1,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Crust%C3%A1ceos.png"
   },
   {
     "name": "Huevos",
-    "id": 2
+    "id": 2,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Huevos.png"
   },
   {
     "name": "Pescado",
-    "id": 3
+    "id": 3,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Pescado.png"
   },
   {
     "name": "Cacahuetes",
@@ -21,31 +25,38 @@
   },
   {
     "name": "Soja",
-    "id": 5
+    "id": 5,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Soja.png"
   },
   {
     "name": "Lácteos",
-    "id": 6
+    "id": 6,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/L%C3%A1cteos.png"
   },
   {
     "name": "Frutos con Cáscara",
-    "id": 7
+    "id": 7,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Frutos-de-Cascara-.png"
   },
   {
     "name": "Apio",
-    "id": 8
+    "id": 8,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Apio.png"
   },
   {
     "name": "Mostaza",
-    "id": 9
+    "id": 9,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Mostaza.png"
   },
   {
     "name": "Sésamo",
-    "id": 10
+    "id": 10,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Granos-de-sesamo.png"
   },
   {
     "name": "Dióxido de Azufre y Sulfitos",
-    "id": 11
+    "id": 11,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Dixido-de-Azufre.png"
   },
   {
     "name": "Altramuces",
@@ -53,6 +64,7 @@
   },
   {
     "name": "Moluscos",
-    "id": 13
+    "id": 13,
+    "image": "https://menu.tipsipro.com/media/uploads/2017/02/Moluscos.png"
   }
 ]
