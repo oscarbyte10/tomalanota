@@ -3,7 +3,7 @@
 import { NextUIProvider } from '@nextui-org/react';
 import { useRouter } from 'next/navigation';
 
-export const ClientProviders = async ({
+export const ClientProviders = ({
   children,
 }: {
   children: React.ReactNode;
