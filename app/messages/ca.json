@@ -9,5 +9,8 @@
   "MenuItemCard": {
     "imageAlt": "Imatge de {{dish}}",
     "allergens": "Al·lèrgens"
+  },
+  "AssistantDialog": {
+    "welcome": "Hola, sóc Mr Robot. Tria una de les opcions de la carta, i em preocuparé d'ajudar-te amb la resta."
   }
 }
