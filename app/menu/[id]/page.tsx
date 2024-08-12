@@ -1,9 +1,11 @@
 import { Button, Link } from '@nextui-org/react';
 
+import { AssistantModal } from '@/components/assistant-modal';
 import { MenuItemCard, MenuItemsContainer } from '@components';
 import { BackArrow } from '@icons/back-arrow';
 
 import menu from '../../../temp/menu.json';
+
 const menuItems = menu[0].menu_items;
 
 export default function Page({ params }: { params: { id: string } }) {
@@ -29,6 +31,7 @@ export default function Page({ params }: { params: { id: string } }) {
           />
         ))}
       </MenuItemsContainer>
+      <AssistantModal />
     </>
   );
 }
